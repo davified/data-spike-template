@@ -1,0 +1,23 @@
+# data
+data/*
+!data/_keep
+
+# python virtual environments
+.venv*
+
+# python projects
+__pycache__
+
+# pytest
+.pytest_cache/
+
+# jupyter notebooks
+**/.ipynb_checkpoints
+
+# IDE generated stuff
+.idea
+*.iml
+.vscode
+
+# credentials
+client_secret.json 
