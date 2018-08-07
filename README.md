@@ -15,6 +15,10 @@ One paragraph of spike description
 - We try to avoid this, but sometimes it's unavoidable (e.g. creating account, getting API keys, etc)
 - ...
 
+## Usage
+- To do X: `insert command here`
+- To do Y: `insert command here`
+
 ## Spike summary
 
 Here, we list what we learned and pros/cons of the tool/concept that we're spiking out.

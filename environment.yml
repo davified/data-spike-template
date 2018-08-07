@@ -1,0 +1,5 @@
+name: data-spike-template
+dependencies:
+  - python=3.6
+  - pip:
+    - ipykernel

@@ -1,0 +1,5 @@
+name: {virtual_environment_name}
+dependencies:
+  - python=3.6
+  - pip:
+    - ipykernel
